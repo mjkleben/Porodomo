@@ -1,3 +1,9 @@
+Porodomo is a web-based application that utilizes that uses the Porodomo technique. 
+
+On Wikipedia, it is described as "A time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks."
+
+ Individual contribution: Design of the website, styling, and the functionality (both back and front-end) of the Timer and the buttons.
+---------------------------------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
